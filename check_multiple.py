@@ -1,3 +1,4 @@
+# TODO: add user input of number and divisor
 import random
 
 
