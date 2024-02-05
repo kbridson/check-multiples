@@ -1,4 +1,5 @@
 # TODO: add user input of number and divisor
+# TODO: Add positivity check for the divisor
 import random
 
 
